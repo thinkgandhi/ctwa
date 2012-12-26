@@ -1,2 +1,6 @@
 Iam learing GUIT
+<<<<<<< HEAD
 From Client1
+=======
+Hopefull
+>>>>>>> 53830148b695f3feb1262a7ea7a48e6a3417d25a
